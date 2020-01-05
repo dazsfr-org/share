@@ -12,4 +12,8 @@ If you using windows or mac you can go to this link and download files:
 
 https://github.com/dazsfr-org/share/archive/master.zip
 
-# Sponsorship
+# ![spons](http://dazsfr.ru/joxi_screenshot_1578256668368.png)
+
+If you donate, we will give you the opportunity to add, modify and delete files. Cost of donation minimum: 40 rubles. You can donate here:
+
+(https://qiwi.me/donate-share)
