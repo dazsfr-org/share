@@ -11,3 +11,5 @@ Open terminal and type this command:
 If you using windows or mac you can go to this link and download files:
 
 https://github.com/dazsfr-org/share/archive/master.zip
+
+# Sponsorship
