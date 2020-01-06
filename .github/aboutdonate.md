@@ -2,4 +2,4 @@
 
 If you donate, we will give you the opportunity to add, modify and delete files. Cost of donation minimum: 40 rubles. You can donate here:
 
-(https://qiwi.me/donate-share)
+(https://qiwi.me/share-donate)
